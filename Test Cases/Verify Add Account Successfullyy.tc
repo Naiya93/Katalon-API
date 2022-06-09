@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Verify Successfull Logout</name>
+   <name>Verify Add Account Successfullyy</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>840ea336-b007-44f2-8cb2-3e608ceeccc4</testCaseGuid>
+   <testCaseGuid>6fd9074b-fba1-4eee-a8a0-7013bdbe6b72</testCaseGuid>
 </TestCaseEntity>

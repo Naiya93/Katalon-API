@@ -15,14 +15,14 @@
       <guid>7d2b6480-cab8-4e4b-bd57-a7ba9a44b98d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login</testCaseId>
+      <testCaseId>Test Cases/Loginn</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>5932580e-cb0e-4706-8f46-0fc52cd9790b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Logout</testCaseId>
+      <testCaseId>Test Cases/Logoutt</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

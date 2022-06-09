@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Login</name>
+   <name>Loginn</name>
    <tag></tag>
    <elementGuidId>1ce05a4f-eabe-49eb-8efb-d4d5c03d4610</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -50,7 +50,7 @@ RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
 
 ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
 
-/*response1 = WS.sendRequest(findTestObject('TestAPIs/Login'))
+/*response1 = WS.sendRequest(findTestObject('TestAPIs/Loginn'))
 
 def slurper = new groovy.json.JsonSlurper()
 

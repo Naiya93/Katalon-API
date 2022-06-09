@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-response1 = WS.sendRequest(findTestObject('TestAPIs/Login'))
+response1 = WS.sendRequest(findTestObject('TestAPIs/Loginn'))
 
 WS.verifyResponseStatusCode(response1, 200)
 
@@ -44,5 +44,5 @@ println('..........This is a idtoken........' + GlobalVariable.idtoken)
 
 println('..........This is a session........' + GlobalVariable.session)
 
-WS.sendRequest(findTestObject('TestAPIs/Add Account'))
+WS.sendRequest(findTestObject('TestAPIs/Add Accountt'))
 
